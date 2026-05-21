@@ -1,6 +1,5 @@
-# Proyecto-Programaci-n
-En el siguiente repositorio, encontrará los códigos diseñados para la implementación de un sistema de monitoreo y supervisión de contratos mediante un servidor, donde cada usuario tendrá su rol dentro del programa.
 # Sistema de Supervisión de Contratos — Frontend en Python
+En el siguiente repositorio, encontrará los códigos diseñados para la implementación de un sistema de monitoreo y supervisión de contratos mediante un servidor, donde cada usuario tendrá su rol dentro del programa.
 
 ## Descripción
 
