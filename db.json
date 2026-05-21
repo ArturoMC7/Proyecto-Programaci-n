@@ -1,0 +1,16 @@
+{
+    "contracts": [
+        {
+            "number": "001",
+            "contractor": "Velasquez",
+            "object": "Casa 2 pisos",
+            "start": "18/05/2026",
+            "end": "29/05/2026",
+            "value": 2000000.0,
+            "supervisor": "Ing juan",
+            "status": "ACTIVO",
+            "email": "s@gmail.com",
+            "trackings": []
+        }
+    ]
+}

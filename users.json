@@ -1,0 +1,64 @@
+{
+    "users": [
+        {
+            "user": "admin1",
+            "password": "adm",
+            "role": "admin",
+            "session": false
+        },
+        {
+            "user": "sup1",
+            "password": "123",
+            "role": "supervisor",
+            "session": false
+        },
+        {
+            "user": "viewer1",
+            "password": "111",
+            "role": "viewer",
+            "session": false
+        },
+        {
+            "user": "Rojas",
+            "password": "123",
+            "role": "viewer",
+            "session": true
+        },
+        {
+            "user": "Rojas1",
+            "password": "1234",
+            "role": "admin",
+            "session": false
+        },
+        {
+            "user": "rojas",
+            "password": "123",
+            "role": "supervisor",
+            "session": true
+        },
+        {
+            "user": "Rojas2",
+            "password": "1234",
+            "role": "admin",
+            "email": "s@gmail.com",
+            "age": "19",
+            "session": true
+        },
+        {
+            "user": "Arturo",
+            "password": "00000",
+            "role": "supervisor",
+            "email": "carlosa.munozc@uqvirtual.com",
+            "age": "19",
+            "session": false
+        },
+        {
+            "user": "Lina",
+            "password": "1234",
+            "role": "viewer",
+            "email": "lina@uqvirtual.edu.co",
+            "age": "20",
+            "session": true
+        }
+    ]
+}
